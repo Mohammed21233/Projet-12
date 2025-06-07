@@ -1,0 +1,18 @@
+.fa-phone {
+    color: black;
+}
+
+.fa-envelope {
+    color: #D44638; /* rouge classique pour mail */
+}
+
+.fa-linkedin {
+    color: #0A66C2; /* bleu LinkedIn */
+}
+
+.fa-phone:hover,
+.fa-envelope:hover,
+.fa-linkedin:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}

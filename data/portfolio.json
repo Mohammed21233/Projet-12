@@ -1,0 +1,20 @@
+[
+    {
+        "image": "image1.png",
+        "title": "Booki",
+        "text": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
+        "link": "https://github.com/Mohammed21233/Projet-3.git"
+    },
+    {
+        "image": "sophie.jpg",
+        "title": "Sophie Bluel",
+        "text": "Créez une page web dynamique avec JavaScript.",
+        "link": "https://github.com/Mohammed21233/Douh_Mohammed_7_repo_github_022025"
+    },
+    {
+        "image": "image3.png",
+        "title": "Kasa",
+        "text": "Créez une application web de location immobilière avec React.",
+        "link": "https://github.com/Mohammed21233/Douh_Mohammed_8_repo_github_042025"
+    }
+]
